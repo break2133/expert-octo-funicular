@@ -15,7 +15,7 @@ str2 = "ABC"
 a = True
 b = False
 
-class  animal:
+class animal:
     def __init__(self, name, eyes=2, leg=4):
         self.name = name
         self.eyes = eyes
